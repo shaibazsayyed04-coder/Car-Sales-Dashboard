@@ -30,7 +30,7 @@ analyze sales performance, pricing trends, and regional contributions.
 - Regional and dealer-wise performance visuals
 
 ## 📸 Dashboard Preview
-![Dashboard](Sales Overview.jpeg)
+![Car Sales Dashboard Preview](sales_overview.png)
 
 ## 🚀 Conclusion
 This dashboard helps stakeholders track performance, identify growth opportunities,
